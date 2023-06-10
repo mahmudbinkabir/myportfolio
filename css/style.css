@@ -742,6 +742,9 @@ footer ul li a:hover{
     .nav_menu li:nth-child(7){
         animation-delay: 1.4s;
     }
+    .nav_menu li:nth-child(8){
+        animation-delay: 1.6s;
+    }
     @keyframes animateNavItems {
         0%{
             transform: rotateZ(-90deg);
