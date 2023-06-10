@@ -38,7 +38,7 @@
 .classonetwo{
     height: 600px;
     /* background-color: rgb(151, 187, 110); */
-    background-image: url(img/sky-images/HD-wallpaper.jpg) ;
+    background-image: url(../img/sky-images/HD-wallpaper.jpg) ;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
